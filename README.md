@@ -39,10 +39,8 @@ src="https://img.shields.io/github/followers/Dom031?logo=github&style=for-the-ba
 
 <a href="https://github.com/Dom031" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom031&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+## Visitor Stats
+[![Visitors](https://s01.flagcounter.com/count/iUoE/bg_FFFFFF/txt_0A418A/border_298BCC/columns_7/maxflags_15/viewers_0/labels_0/pageviews_0/flags_0/percent_1/)](https://info.flagcounter.com/iUoE)
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/dom031"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
