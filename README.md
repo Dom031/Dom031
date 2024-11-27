@@ -11,7 +11,7 @@ I’ve been learning to code for the past two years at the University of Hertfor
 * ✉️  You can contact me at [domingos\_031@hotmail.com](mailto:domingos_031@hotmail.com)
 * 🚀  I'm currently working on [My Final Year Project: Optimizing Retail Workflow - Automated Sales Reporting and Data Management.](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * 🧠  I'm learning Java
-* 🤝  I'm open to collaborating on any Python projects.
+* 🤝  I'm open to collaborating on any Python and JAVA projects.
 * ⚡  Everyone calls me Dom
 
 <a href="https://www.github.com/Dom031" target="_blank" rel="noreferrer"><img
