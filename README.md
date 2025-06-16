@@ -9,9 +9,15 @@ After a decade working as a chef in hospitality, I made a big career pivot — a
 
 I’ve spent the last few years diving deep into backend development and software design. My strongest skills are in **Python**, **SQL**, and **Java**, and I’ve built several projects using **PyQt5**, **SQLite**, and object-oriented programming. I love building logical systems that solve real-world problems and make workflows smoother and more efficient.
 
-Some of my most enjoyable projects include:
-- 🧾 **Fluxoro** – A desktop sales management app built using Python, PyQt5 and SQLite to automate reporting and data management.
-- 🎮 **2D Platformer Game** – A Unity game built using C# to explore game mechanics, physics, and custom interactions.
+### 🛠️ Some of My Most Enjoyable Projects
+
+- 🧾 **[Fluxoro](https://github.com/Dom031/fluxoro)** – A desktop sales management app built using Python, PyQt5, and SQLite. Designed to automate data entry, export reports in CSV/Excel/PDF, and support real-time sales tracking with user-friendly dashboards.
+
+- 📦 **[Depot System](https://github.com/Dom031/depot-system)** – A Java-based parcel workflow simulation that uses the MVC design pattern. Models real-world logistics and outputs daily reports using queue-based logic.
+
+- 🚲 **[Bike Rental Tracker](https://github.com/Dom031/bike-rental)** – C++ application built to manage a small bike rental service. Includes functionality for recharging electric bikes, tracking rentals, and calculating daily revenue from input/output files.
+
+- 🎮 **[2D Platformer Game](https://github.com/Dom031/unity-platformer)** – A C# game developed in Unity exploring movement mechanics, object collisions, and player interaction systems. Helped me grow confidence in event-driven programming and game development logic.
 
 I’m now looking to break into the tech industry and work with teams that value creativity, clean code, and purposeful technology. I’m currently learning **Flask** and exploring **cloud technologies** like AWS to expand my backend and deployment skills.
 
