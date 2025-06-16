@@ -13,7 +13,7 @@ I’ve spent the last few years diving deep into backend development and softwar
 
 - 🧾 **[Fluxoro](https://github.com/Dom031/fluxoro)** – A desktop sales management app built using Python, PyQt5, and SQLite. Designed to automate data entry, export reports in CSV/Excel/PDF, and support real-time sales tracking with user-friendly dashboards.
 
-- 📦 **[Depot System](https://github.com/Dom031/depot-system)** – A Java-based parcel workflow simulation that uses the MVC design pattern. Models real-world logistics and outputs daily reports using queue-based logic.
+- 📦 **[Depot System]([https://github.com/Dom031/depot-system](https://github.com/Dom031/DepotSystemPart2))** – A Java-based parcel workflow simulation that uses the MVC design pattern. Models real-world logistics and outputs daily reports using queue-based logic.
 
 - 🚲 **[Bike Rental Tracker](https://github.com/Dom031/bike-rental)** – C++ application built to manage a small bike rental service. Includes functionality for recharging electric bikes, tracking rentals, and calculating daily revenue from input/output files.
 
