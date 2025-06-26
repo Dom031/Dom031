@@ -27,7 +27,7 @@ I’m now looking to break into the tech industry and work with teams that value
 - 🖥️ Portfolio (WIP): [http://domingos.pythonanywhere.com](http://domingos.pythonanywhere.com)  
 - 📫 Email: [domingos_031@hotmail.com](mailto:domingos_031@hotmail.com)  
 - 💬 Fun fact: Everyone calls me **Dom**  
-- 🔭 Currently learning: **Flask**, **GitHub project workflows**, and **AWS**  
+- 🔭 Currently learning: **GitHub project workflows**, and **AWS**  
 - 🤝 Open to collaborating on Python, backend, and startup-focused projects
 
 ---
