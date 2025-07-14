@@ -1,7 +1,7 @@
 Hi there 👋 I'm Domingos Neto
 ==============================
 
-🎓 Recent Software Engineering Graduate | 🐍 Python Enthusiast | 🧠 Backend Developer-in-Progress
+🎓 Recent Software Engineering Graduate | 🐍 Python Enthusiast
 
 ---
 
