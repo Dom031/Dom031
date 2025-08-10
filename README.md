@@ -15,7 +15,7 @@ I’ve spent the last few years diving deep into backend development and softwar
 
 - 📦 **[Depot System](https://github.com/Dom031/DepotSystemPart2)** – A Java-based parcel workflow simulation that uses the MVC design pattern. Models real-world logistics and outputs daily reports using queue-based logic.
 
-- 🚲 **[Bike Rental Tracker](https://bitbucket.org/software-techniques-labs/software-techniques-assignment/src/main/)** – A C++ application built to manage a small bike rental service. Includes functionality for recharging electric bikes, tracking rentals, and calculating daily revenue from input/output files.
+- 🚲 **[Bike Rental Tracker](https://github.com/Dom031/bike_rental)** – A C++ application built to manage a small bike rental service. Includes functionality for recharging electric bikes, tracking rentals, and calculating daily revenue from input/output files.
 
 - 🎮 **[2D Platformer Game](https://github.com/Dom031/Pixel-Harvest)** – A C# game developed in Unity exploring movement mechanics, object collisions, and player interaction systems. Helped me grow confidence in event-driven programming and game development logic.
 
