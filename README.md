@@ -1,13 +1,11 @@
 Hi there 👋 I'm Domingos Neto
 ==============================
 
-🎓 Recent Software Engineering Graduate | 🐍 Python Enthusiast
+🎓 Software Engineering Graduate | Backend Developer | Python, Java, SQL
 
----
+After a decade in hospitality, I transitioned into software engineering and earned a First Class Honours BSc (Hons) in Computer Science (Software Engineering) from the University of Hertfordshire.
 
-After a decade working as a chef in hospitality, I made a big career pivot — and recently completed my BSc (Hons) Computer Science (Software Engineering) at the University of Hertfordshire, graduating with First Class Honours (pending official ceremony).
-
-I’ve spent the last few years diving deep into backend development and software design. My strongest skills are in **Python**, **SQL**, and **Java**, and I’ve built several projects using **PyQt5**, **SQLite**, and object-oriented programming. I love building logical systems that solve real-world problems and make workflows smoother and more efficient.
+I specialise in backend development, database design, and building maintainable systems. My projects include a Python-based sales management system with a custom GUI, a Java parcel depot simulation using MVC and design patterns, and a C++ bike rental tracker with automated reporting and unit testing. I focus on delivering reliable, efficient solutions that solve real-world problems.
 
 ---
 
