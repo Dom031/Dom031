@@ -25,16 +25,24 @@ I specialise in backend development, database design, and building maintainable 
 
 ### 🛠️ Some of My Most Enjoyable Projects
 
-- 🧾 **[Fluxoro](https://github.com/Dom031/fluxoro)** – A desktop sales management app built using Python, PyQt5, and SQLite. Designed to automate data entry, export reports in CSV/Excel/PDF, and support real-time sales tracking with user-friendly dashboards.
-- 📦 **[Depot System](https://github.com/Dom031/DepotSystemPart2)** – A Java-based parcel workflow simulation that uses the MVC design pattern. Models real-world logistics and outputs daily reports using queue-based logic.
-- 🚲 **[Bike Rental Tracker](https://github.com/Dom031/bike_rental)** – A C++ application built to manage a small bike rental service. Includes functionality for recharging electric bikes, tracking rentals, and calculating daily revenue from input/output files.
-- 🎮 **[2D Platformer Game](https://github.com/Dom031/Pixel-Harvest)** – A C# game developed in Unity exploring movement mechanics, object collisions, and player interaction systems. Helped me grow confidence in event-driven programming and game development logic.
+- 🧾 **[Fluxoro](https://github.com/Dom031/fluxoro)** – Python, PyQt5, SQLite  
+  Developed a desktop sales management system that reduced manual reporting with automated CSV/PDF exports. Integrated a secure role-based login and built a custom PyQt5 GUI for non-technical users.
+
+- 📦 **[Depot System](https://github.com/Dom031/DepotSystemPart2)** – Java, MVC Pattern  
+  Simulated parcel management workflow using MVC and Singleton design patterns. Implemented file-based data loading, customer queues, dynamic fee calculation, and daily report generation.
+
+- 🚲 **[Bike Rental Tracker](https://github.com/Dom031/bike_rental)** – C++, Catch2, Doxygen  
+  Created a console application to manage bike rentals, including electric bike recharging, rental tracking, and daily revenue calculations. Added unit tests (Catch2) and generated full documentation with Doxygen.
+
+- 🎮 **[2D Platformer Game](https://github.com/Dom031/Pixel-Harvest)** – C#, Unity  
+  Designed and developed a 2D platformer game focusing on movement mechanics, object collisions, and interactive gameplay systems, strengthening event-driven programming skills.
+
 
 ---
 
 - 🌍 Based in London, UK  
 - 📫 Email: [domingos_031@hotmail.com](mailto:domingos_031@hotmail.com)  
-- 💬 Fun fact: Everyone calls me **Dom**  
+- 💬 Fun fact: Before tech, I worked as a forager chef. Sourcing wild ingredients, working with hunters, and cooking rare meats and mushrooms for fine dining restaurants.
 - 🔭 Currently learning: **AWS**  
 
 ---
